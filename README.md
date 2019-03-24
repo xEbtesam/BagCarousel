@@ -1,2 +1,2 @@
 # BagCarousel
-Simulation for Airport Bag Carousel 
+Simulator for Airport Bag Carousel 
